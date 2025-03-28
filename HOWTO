@@ -1,0 +1,7 @@
+# Hur du lägger till eller uppdaterar filer
+1. Gå till mappen med din file explorer.
+2. Högerklicka i mappen och klicka på "Open Git Bash here".
+3. Skriv följande efter du gjort dina ändringar:
+git add -A
+git commit -am "..."
+git push
