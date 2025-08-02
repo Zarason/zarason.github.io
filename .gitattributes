@@ -1,5 +1,17 @@
 bilder/** filter=lfs diff=lfs merge=lfs -text
 foton/** filter=lfs diff=lfs merge=lfs -text
 portfolio/** filter=lfs diff=lfs merge=lfs -text
-spel/** filter=lfs diff=lfs merge=lfs -text
 video/** filter=lfs diff=lfs merge=lfs -text
+
+spel/Build/Games.wasm.framework.unityweb filter=lfs diff=lfs merge=lfs -text
+spel/Build/Games.wasm.code.unityweb filter=lfs diff=lfs merge=lfs -text
+spel/Build/Games.data.unityweb filter=lfs diff=lfs merge=lfs -text
+spel/TemplateData/fullscreen.png filter=lfs diff=lfs merge=lfs -text
+spel/TemplateData/progressEmpty.Dark.png filter=lfs diff=lfs merge=lfs -text
+spel/TemplateData/progressEmpty.Light.png filter=lfs diff=lfs merge=lfs -text
+spel/TemplateData/progressFull.Dark.png filter=lfs diff=lfs merge=lfs -text
+spel/TemplateData/progressFull.Light.png filter=lfs diff=lfs merge=lfs -text
+spel/TemplateData/favicon.ico filter=lfs diff=lfs merge=lfs -text
+spel/TemplateData/progressLogo.Dark.png filter=lfs diff=lfs merge=lfs -text
+spel/TemplateData/progressLogo.Light.png filter=lfs diff=lfs merge=lfs -text
+spel/TemplateData/webgl-logo.png filter=lfs diff=lfs merge=lfs -text
