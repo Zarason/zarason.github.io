@@ -5,16 +5,16 @@ body{
   font-family: 'Courier New';
 }
 .bg1{
-  background-image: url(bilder/bg-lila.png);
+  background-image: url(https://media.githubusercontent.com/media/Zarason/zarason.github.io/refs/heads/master/bilder/bg-lila.png);
   background-repeat: repeat;
 }
 
 .bg2{
-  background-image: url(bilder/bg-rosa.png);
+  background-image: url(https://media.githubusercontent.com/media/Zarason/zarason.github.io/refs/heads/master/bilder/bg-rosa.png);
   background-repeat: repeat;
 }
 .bg3{
-  background-image: url(bilder/bg-bla.png);
+  background-image: url(https://media.githubusercontent.com/media/Zarason/zarason.github.io/refs/heads/master/bilder/bg-bla.png);
   background-repeat: repeat;
 }
 
@@ -254,6 +254,16 @@ a:hover{
   text-align: center;
   color: white;
   font-family: 'Courier New','Chalkboard', 'Avenir';
+}
+
+div.container-scroll{
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+div.container-scroll img{
+  padding: 10px;
 }
 
 .foot1{
