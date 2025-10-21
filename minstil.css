@@ -235,6 +235,18 @@ a:hover{
   width: 100%;
 }
 
+.anim-horizontal{
+  height: auto;
+  max-width: 500px;
+  width:100%;
+}
+
+.anim-vertical{
+  height: auto;
+  max-width: 200px;
+  width: 100%;
+}
+
 .square{
   background: #e6e6ff;
   width: 40%;
