@@ -257,7 +257,7 @@ a:hover{
 }
 
 div.container-scroll{
-  background-color: #333;
+  background-color: #D3D3D3;
   overflow: auto;
   white-space: nowrap;
   padding: 10px;
